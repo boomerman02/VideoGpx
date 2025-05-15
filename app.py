@@ -7,7 +7,7 @@ import imageio
 from PIL import Image
 import os
 
-st.title("Generador de vídeo de ruta GPX con icono de moto")
+st.title("Generador de vídeo de ruta GPX con icono de moto -2")
 
 gpx_file = st.file_uploader("Sube tu archivo GPX", type=["gpx"])
 moto_file = st.file_uploader("Sube una imagen PNG para la moto", type=["png"])
