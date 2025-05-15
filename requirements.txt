@@ -1,0 +1,6 @@
+
+streamlit
+gpxpy
+matplotlib
+imageio
+pillow
